@@ -17,5 +17,3 @@ final ThemeData darkTheme = ThemeData(
   ),
   scaffoldBackgroundColor: Colors.grey[850],
 );
-
-final TextStyle actionTitleStyle = TextStyle();
